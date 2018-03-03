@@ -20,6 +20,11 @@ public class TEStss {
         }
         System.out.println(res[size - 1]);
         
+<<<<<<< Updated upstream
         System.out.printf("hi there");
+=======
+        System.out.printf("It's Sat morning");
+        System.out.printf("It's Sat morning and everything gonna be better from now on");
+>>>>>>> Stashed changes
     }
 }
