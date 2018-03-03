@@ -20,6 +20,5 @@ public class TEStss {
         }
         System.out.println(res[size - 1]);
         
-        System.out.printf("hi there");
     }
 }
