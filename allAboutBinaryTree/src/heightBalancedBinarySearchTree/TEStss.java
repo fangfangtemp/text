@@ -20,7 +20,7 @@ public class TEStss {
         }
         System.out.println(res[size - 1]);
 
-        System.out.printf("It's Sat morning");
+        System.out.printf("It's Sun morning");
         System.out.printf("It's Sat morning and everything gonna be better from now on");
     }
 }
