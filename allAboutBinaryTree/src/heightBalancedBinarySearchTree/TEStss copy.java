@@ -22,5 +22,6 @@ public class TEStss {
 
         System.out.printf("It's Sunday Evening");
         System.out.printf("It's moon and everything gonna be better");
+
     }
 }
