@@ -21,6 +21,6 @@ public class TEStss {
         System.out.println(res[size - 1]);
 
         System.out.printf("It's Sunday Evening");
-        System.out.printf("It's monday and everything gonna be better");
+        System.out.printf("It's moon and everything gonna be better");
     }
 }
